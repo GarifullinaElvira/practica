@@ -2,5 +2,5 @@
 
 int main()
 {
-    std::cout << "tut budet cod 100proc\n";
+    std::cout << "tut budet cod 200proc\n";
 }
