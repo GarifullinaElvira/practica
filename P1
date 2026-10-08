@@ -1,0 +1,6 @@
+#include <iostream>
+
+int main()
+{
+    std::cout << "tut budet cod 100proc\n";
+}
